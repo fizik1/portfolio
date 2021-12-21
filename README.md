@@ -1,2 +1,2 @@
 # portfolio
-O'zim haqimda saty
+O'zim haqimda sayt
